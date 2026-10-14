@@ -46,9 +46,7 @@ The project includes both a complete **Python simulation** and a **micro-ROS rea
 - Differential drive ready structure for real robots
 
 ---
-
 ## Project Structure
-
 Decentralized-Swarm-Control/
 ├── README.md
 ├── simulation/
@@ -59,7 +57,6 @@ Decentralized-Swarm-Control/
 │   └── swarm_controller.hpp     # Core algorithm (C++)
 └── src/
 └── swarm_agent.cpp          # ESP32 main program
-
 ---
 
 ## How to Run the Simulation
